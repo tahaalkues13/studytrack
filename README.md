@@ -1,5 +1,9 @@
 # StudyTrack
+## Canlı Demo
 
+StudyTrack uygulamasının canlı sürümüne aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+https://splendid-kringle-f4d5f2.netlify.app
 StudyTrack, öğrencilerin derslerini ve çalışma görevlerini kolay bir şekilde planlayıp takip edebilmesi için geliştirilmiş bir React uygulamasıdır.
 
 Uygulama üzerinden yeni çalışma görevleri eklenebilir, mevcut görevler listelenebilir, güncellenebilir ve silinebilir. Görevler LocalStorage üzerinde saklandığı için sayfa yenilendiğinde veriler kaybolmaz.
